@@ -1,0 +1,146 @@
+{"0": {
+    "doc": "SOST: Seminar on Selected Topics",
+    "title": "SOST: Seminar on Selected Topics",
+    "content": "The SOST is to provide a brief introduction to a selected subset of topics and papers from faculty members in RIIS that are not covered in courses at the graduate/Ph.D. level. See About for more information. ",
+    "url": "/seminar-paper-reading/index.html",
+    "relUrl": "/index.html"
+  },"1": {
+    "doc": "About",
+    "title": "SOST: Seminar on Selected Topics",
+    "content": " ",
+    "url": "/seminar-paper-reading/about/#sost-seminar-on-selected-topics",
+    "relUrl": "/about/#sost-seminar-on-selected-topics"
+  },"2": {
+    "doc": "About",
+    "title": "Table of contents",
+    "content": ". | SOST . | Organization &amp; Rules | 组织原则 | License | . | . ",
+    "url": "/seminar-paper-reading/about/#table-of-contents",
+    "relUrl": "/about/#table-of-contents"
+  },"3": {
+    "doc": "About",
+    "title": "SOST",
+    "content": "The SOST is to provide a brief introduction to a selected subset of topics and papers from faculty members in RIIS that are not covered in courses at the graduate/Ph.D. level. Organization &amp; Rules . | 2022-2023 Fall Semester | Organizer: Chuwen Zhang, Chang He, Yuntian Jiang, Chenyu Xue, Wenzhi Gao | Website maintenance: Chuwen Zhang, Wenzhi Gao | . 组织原则 . | Seminar 课题所需材料由学生负责准备 | 所有参加的学生均有负责准备材料的义务，没有例外，需承担的责任: . | 选择合适文章并与课题指导老师沟通 | 准备课题所需笔记及slides. | 在当期课题开始前分享出来 | . | 课题材料要求 (按照统一的模板，模板下载），包含内容 . | 必要的 Introductory 章节 | $^\\dagger$ 如果展示所用slides 及笔记不便开源，提供分享用 email | 完整的参考文献 | . | . License . If you wish to include the materials of a topic covered by SOST, please cite one or more . ",
+    "url": "/seminar-paper-reading/about/#sost",
+    "relUrl": "/about/#sost"
+  },"4": {
+    "doc": "About",
+    "title": "About",
+    "content": " ",
+    "url": "/seminar-paper-reading/about/",
+    "relUrl": "/about/"
+  },"5": {
+    "doc": "Announcements",
+    "title": "Announcements",
+    "content": "Announcements are stored in the _announcements directory and rendered according to the layout file, _layouts/announcement.html. ",
+    "url": "/seminar-paper-reading/announcements/",
+    "relUrl": "/announcements/"
+  },"6": {
+    "doc": "Announcements",
+    "title": "Week 1 Announcement",
+    "content": "Apr 8 &middot; 0 min read . | Create a new repository based on Just the Class. | Configure a publishing source for GitHub Pages. Your course website is now live! | Update _config.yml with your course information. | Edit and create .md Markdown files to add your content. | . ",
+    "url": "/seminar-paper-reading/announcements/",
+    "relUrl": "/announcements/"
+  },"7": {
+    "doc": "Announcements",
+    "title": "Week 0 Announcement",
+    "content": "Apr 1 &middot; 0 min read Hello world! . ",
+    "url": "/seminar-paper-reading/announcements/",
+    "relUrl": "/announcements/"
+  },"8": {
+    "doc": "Calendar",
+    "title": "Calendar",
+    "content": " ",
+    "url": "/seminar-paper-reading/calendar/",
+    "relUrl": "/calendar/"
+  },"9": {
+    "doc": "Calendar",
+    "title": "Stochastic Model-based Optimization",
+    "content": " ",
+    "url": "/seminar-paper-reading/calendar/#stochastic-model-based-optimization",
+    "relUrl": "/calendar/#stochastic-model-based-optimization"
+  },"10": {
+    "doc": "Calendar",
+    "title": "Abstract",
+    "content": "We introduce a new interpretation of first-order methods from the perspective of model function. Using the framework of model-based optimization, the analysis of several existing algorithms can be unified succinctly. Specifically, we focus on the stochastic model-based optimization (SMOD), a class of nonsmooth nonconvex problems which are prevalent in machine learning. To make SMOD more practical, we make two important extensions: 1) we show that the popular momentum trick can be incorporated with SMOD. 2) when the model function satisfies certain good approximation property, even the nonsmooth problems can be linearly accelerated by minibatching. Furthermore, we also briefly cover the topic of distributed optimization and discuss the advantage of certain models in the asynchronous environment. | Advisor: Qi Deng | Organizer: Wenzhi Gao | . Sep 28 Java &amp; Git 1.1 Sep 29 SectionIntro to Java Solution Sep 30 Variables &amp; Objects 1.2, 2.1 Oct 1 Lab Intro to Java Oct 2 Tracing, IntLists, &amp; Recursion 2.1 HW 1 due ",
+    "url": "/seminar-paper-reading/calendar/#abstract",
+    "relUrl": "/calendar/#abstract"
+  },"11": {
+    "doc": "Calendar",
+    "title": "Multidimensional Data (Tensor) Analysis",
+    "content": "Abstract: First, we provide an overview of higher-order tensor decomposition such as the CP decomposition and its related applications. Then we introduce the computation of the principal components for a general tensor, known as the tensor principal component analysis (PCA) problem. We show that the general tensor PCA problem can be reducible to its special case, hence the tensor PCA problem can be solved by means of matrix optimization technique. Finally, we introduce a novel approximation scheme for tensor nuclear norm, which fills the gap of the approximation ration between tensor nuclear norm and tensor spectral norm. Oct 5 Linked Lists &amp; Encapsulation 3.1, 2.2, 2.3 Oct 6 SectionLinked Lists Solution Oct 7 Resizing Arrays 2.4, 2.5 Oct 8 Lab Resizing Arrays Oct 9 Runtime Analysis 8.1, 8.2, 8.3, 8.4 HW 2 due ",
+    "url": "/seminar-paper-reading/calendar/#multidimensional-data-tensor-analysis",
+    "relUrl": "/calendar/#multidimensional-data-tensor-analysis"
+  },"12": {
+    "doc": "Calendar",
+    "title": "Multidimensional Data (Tensor) Analysis",
+    "content": "Abstract: First, we provide an overview of higher-order tensor decomposition such as the CP decomposition and its related applications. Then we introduce the computation of the principal components for a general tensor, known as the tensor principal component analysis (PCA) problem. We show that the general tensor PCA problem can be reducible to its special case, hence the tensor PCA problem can be solved by means of matrix optimization technique. Finally, we introduce a novel approximation scheme for tensor nuclear norm, which fills the gap of the approximation ration between tensor nuclear norm and tensor spectral norm. Oct 5 Linked Lists &amp; Encapsulation 3.1, 2.2, 2.3 Oct 6 SectionLinked Lists Solution Oct 7 Resizing Arrays 2.4, 2.5 Oct 8 Lab Resizing Arrays Oct 9 Runtime Analysis 8.1, 8.2, 8.3, 8.4 HW 2 due ",
+    "url": "/seminar-paper-reading/calendar/#multidimensional-data-tensor-analysis",
+    "relUrl": "/calendar/#multidimensional-data-tensor-analysis"
+  },"13": {
+    "doc": "Calendar",
+    "title": "Multidimensional Data (Tensor) Analysis",
+    "content": "Abstract: First, we provide an overview of higher-order tensor decomposition such as the CP decomposition and its related applications. Then we introduce the computation of the principal components for a general tensor, known as the tensor principal component analysis (PCA) problem. We show that the general tensor PCA problem can be reducible to its special case, hence the tensor PCA problem can be solved by means of matrix optimization technique. Finally, we introduce a novel approximation scheme for tensor nuclear norm, which fills the gap of the approximation ration between tensor nuclear norm and tensor spectral norm. Oct 5 Linked Lists &amp; Encapsulation 3.1, 2.2, 2.3 Oct 6 SectionLinked Lists Solution Oct 7 Resizing Arrays 2.4, 2.5 Oct 8 Lab Resizing Arrays Oct 9 Runtime Analysis 8.1, 8.2, 8.3, 8.4 HW 2 due ",
+    "url": "/seminar-paper-reading/calendar/#multidimensional-data-tensor-analysis",
+    "relUrl": "/calendar/#multidimensional-data-tensor-analysis"
+  },"14": {
+    "doc": "Schedule",
+    "title": "Weekly Schedule",
+    "content": "The schedule will be finalized by Tencent Meeting links. | 9:00 AM | 9:30 AM | 10:00 AM | 10:30 AM | 11:00 AM | 11:30 AM | 12:00 PM | 12:30 PM | 1:00 PM | 1:30 PM | 2:00 PM | 2:30 PM | 3:00 PM | 3:30 PM | 4:00 PM | 4:30 PM | 5:00 PM | 5:30 PM | . | ",
+    "url": "/seminar-paper-reading/schedule/#weekly-schedule",
+    "relUrl": "/schedule/#weekly-schedule"
+  },"15": {
+    "doc": "Schedule",
+    "title": "Monday",
+    "content": ". | Lecture 9:30 AM–10:30 AM 150 Wheeler | Section 11:30 AM–12:30 PM 310 Soda | Office Hours 12:30 PM–2:00 PM 271 Soda | . | ",
+    "url": "/seminar-paper-reading/schedule/",
+    "relUrl": "/schedule/"
+  },"16": {
+    "doc": "Schedule",
+    "title": "Tuesday",
+    "content": "| ",
+    "url": "/seminar-paper-reading/schedule/",
+    "relUrl": "/schedule/"
+  },"17": {
+    "doc": "Schedule",
+    "title": "Wednesday",
+    "content": ". | Lecture 9:30 AM–10:30 AM 150 Wheeler | Section 11:30 AM–12:30 PM 310 Soda | Office Hours 12:30 PM–2:00 PM 271 Soda | . | ",
+    "url": "/seminar-paper-reading/schedule/",
+    "relUrl": "/schedule/"
+  },"18": {
+    "doc": "Schedule",
+    "title": "Thursday",
+    "content": "| ",
+    "url": "/seminar-paper-reading/schedule/",
+    "relUrl": "/schedule/"
+  },"19": {
+    "doc": "Schedule",
+    "title": "Friday",
+    "content": ". | Lecture 9:30 AM–10:30 AM 150 Wheeler | Section 11:30 AM–12:30 PM 310 Soda | Office Hours 12:30 PM–2:00 PM 271 Soda | . | . ",
+    "url": "/seminar-paper-reading/schedule/",
+    "relUrl": "/schedule/"
+  },"20": {
+    "doc": "Schedule",
+    "title": "Schedule",
+    "content": " ",
+    "url": "/seminar-paper-reading/schedule/",
+    "relUrl": "/schedule/"
+  },"21": {
+    "doc": "Staff",
+    "title": "Staff",
+    "content": "Staff information is stored in the _staffers directory and rendered according to the layout file, _layouts/staffer.html. ",
+    "url": "/seminar-paper-reading/staff/",
+    "relUrl": "/staff/"
+  },"22": {
+    "doc": "Staff",
+    "title": "Instructors",
+    "content": " ",
+    "url": "/seminar-paper-reading/staff/#instructors",
+    "relUrl": "/staff/#instructors"
+  },"23": {
+    "doc": "Staff",
+    "title": "Teaching Assistants",
+    "content": "C. Zhang . chuwen-at-shanshu-dot-ai . ",
+    "url": "/seminar-paper-reading/staff/#teaching-assistants",
+    "relUrl": "/staff/#teaching-assistants"
+  }
+}
