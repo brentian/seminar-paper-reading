@@ -66,10 +66,10 @@
     "relUrl": "/calendar/#multidimensional-data-tensor-analysis"
   },"11": {
     "doc": "Calendar",
-    "title": "Polynomial optimization",
-    "content": "Abstract . TBD . | Advisor: Simai He | Student: | . Outline &amp; Reference . | Introductory notes and remarks | Overview of PO, motivation, and basic algorithms | . Schedule . ",
-    "url": "/seminar-paper-reading/calendar/#polynomial-optimization",
-    "relUrl": "/calendar/#polynomial-optimization"
+    "title": "Lp minimization",
+    "content": "Abstract . TBD . | Advisor: Dongdong Ge | Student: | . Outline &amp; Reference . | Ge, D., Jiang, X., Ye, Y.: A note on the complexity of Lp minimization. Mathematical Programming. 129, 285–299 (2011). https://doi.org/10.1007/s10107-011-0470-2 | Chen, X., Ge, D., Wang, Z., Ye, Y.: Complexity of unconstrained L2-Lp minimization. Math. Program. 143, 371–383 (2014). https://doi.org/10.1007/s10107-012-0613-0 | . Schedule . ",
+    "url": "/seminar-paper-reading/calendar/#lp-minimization",
+    "relUrl": "/calendar/#lp-minimization"
   },"12": {
     "doc": "Calendar",
     "title": "Submodular optimization",
@@ -77,60 +77,66 @@
     "url": "/seminar-paper-reading/calendar/#submodular-optimization",
     "relUrl": "/calendar/#submodular-optimization"
   },"13": {
+    "doc": "Calendar",
+    "title": "Polynomial optimization",
+    "content": "Abstract . TBD . | Advisor: Simai He | Student: | . Outline &amp; Reference . | Introductory notes and remarks | Overview of PO, motivation, and basic algorithms | . Schedule . ",
+    "url": "/seminar-paper-reading/calendar/#polynomial-optimization",
+    "relUrl": "/calendar/#polynomial-optimization"
+  },"14": {
     "doc": "Schedule",
     "title": "Weekly Schedule",
     "content": "The schedule will be finalized by Tencent Meeting links. | 9:00 AM | 9:30 AM | 10:00 AM | 10:30 AM | 11:00 AM | 11:30 AM | 12:00 PM | 12:30 PM | 1:00 PM | 1:30 PM | 2:00 PM | 2:30 PM | 3:00 PM | 3:30 PM | 4:00 PM | 4:30 PM | 5:00 PM | 5:30 PM | . | ",
     "url": "/seminar-paper-reading/schedule/#weekly-schedule",
     "relUrl": "/schedule/#weekly-schedule"
-  },"14": {
+  },"15": {
     "doc": "Schedule",
     "title": "Monday",
     "content": ". | Lecture 9:30 AM–10:30 AM 150 Wheeler | Section 11:30 AM–12:30 PM 310 Soda | Office Hours 12:30 PM–2:00 PM 271 Soda | . | ",
     "url": "/seminar-paper-reading/schedule/",
     "relUrl": "/schedule/"
-  },"15": {
+  },"16": {
     "doc": "Schedule",
     "title": "Tuesday",
     "content": "| ",
     "url": "/seminar-paper-reading/schedule/",
     "relUrl": "/schedule/"
-  },"16": {
+  },"17": {
     "doc": "Schedule",
     "title": "Wednesday",
     "content": ". | Lecture 9:30 AM–10:30 AM 150 Wheeler | Section 11:30 AM–12:30 PM 310 Soda | Office Hours 12:30 PM–2:00 PM 271 Soda | . | ",
     "url": "/seminar-paper-reading/schedule/",
     "relUrl": "/schedule/"
-  },"17": {
+  },"18": {
     "doc": "Schedule",
     "title": "Thursday",
     "content": "| ",
     "url": "/seminar-paper-reading/schedule/",
     "relUrl": "/schedule/"
-  },"18": {
+  },"19": {
     "doc": "Schedule",
     "title": "Friday",
     "content": ". | Lecture 9:30 AM–10:30 AM 150 Wheeler | Section 11:30 AM–12:30 PM 310 Soda | Office Hours 12:30 PM–2:00 PM 271 Soda | . | . ",
     "url": "/seminar-paper-reading/schedule/",
     "relUrl": "/schedule/"
-  },"19": {
+  },"20": {
     "doc": "Schedule",
     "title": "Schedule",
     "content": " ",
     "url": "/seminar-paper-reading/schedule/",
     "relUrl": "/schedule/"
-  },"20": {
+  },"21": {
     "doc": "Staff",
     "title": "Staff",
     "content": " ",
     "url": "/seminar-paper-reading/staff/",
     "relUrl": "/staff/"
-  },"21": {
+  },"22": {
     "doc": "Staff",
     "title": "Instructors",
     "content": " ",
     "url": "/seminar-paper-reading/staff/#instructors",
     "relUrl": "/staff/#instructors"
-  },"22": {
+  },"23": {
     "doc": "Staff",
     "title": "Organizers",
     "content": "C. Zhang . chuwen-at-shanshu-dot-ai . W. Gao . unknown . C. He . unknown . Y. Jiang . unknown . C. Xue . unknown . ",
