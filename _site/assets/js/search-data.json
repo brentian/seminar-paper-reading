@@ -19,7 +19,7 @@
   },"3": {
     "doc": "About",
     "title": "SOST",
-    "content": "The SOST is to provide a brief introduction to a selected subset of topics and papers from faculty members in RIIS that are not covered in courses at the graduate/Ph.D. level. Organization &amp; Rules . | 2022-2023 Fall Semester | Organizer: Chuwen Zhang, Chang He, Yuntian Jiang, Chenyu Xue, Wenzhi Gao | Website maintenance: Chuwen Zhang, Wenzhi Gao | . 组织原则 . | Seminar 课题所需材料由学生负责准备 | 所有参加的学生均有负责准备材料的义务，没有例外，需承担的责任: . | 选择合适文章并与课题指导老师沟通 | 准备课题所需笔记及slides. | 在当期课题开始前分享出来 | . | 课题材料要求 (按照统一的模板，模板下载），包含内容 . | 必要的 Introductory 章节 | $^\\dagger$ 如果展示所用slides 及笔记不便开源，提供分享用 email | 完整的参考文献 | . | . License . If you wish to include the materials of a topic covered by SOST, please cite one or more . ",
+    "content": "The SOST is to provide a brief introduction to a selected subset of topics and papers from faculty members in RIIS that are not covered in courses at the graduate/Ph.D. level. Organization &amp; Rules . | 2022-2023 Fall Semester | Organizer: Chuwen Zhang, Chang He, Yuntian Jiang, Chenyu Xue, Wenzhi Gao | Website maintenance: Chuwen Zhang, Wenzhi Gao | . 组织原则 . | Seminar 课题所需材料由学生负责准备 | 所有参加的学生均有负责准备材料的义务，没有例外，需承担的责任: . | 选择合适文章并与课题指导老师沟通 | 准备课题所需笔记及slides. | 在当期课题开始前分享出来 | . | 课题材料要求 (按照统一的模板，模板下载），包含内容 . | 必要的 Introductory 章节 | 如果展示所用slides 及笔记不便开源，提供分享用 email | 完整的参考文献 | . | . License . If you wish to include the materials of a topic covered by SOST, please cite the papers. ",
     "url": "/seminar-paper-reading/about/#sost",
     "relUrl": "/about/#sost"
   },"4": {
@@ -55,92 +55,86 @@
   },"9": {
     "doc": "Calendar",
     "title": "Stochastic Model-based Optimization",
-    "content": " ",
+    "content": "Abstract . We introduce a new interpretation of first-order methods from the perspective of model function. Using the framework of model-based optimization, the analysis of several existing algorithms can be unified succinctly. Specifically, we focus on the stochastic model-based optimization (SMOD), a class of nonsmooth nonconvex problems which are prevalent in machine learning. To make SMOD more practical, we make two important extensions: 1) we show that the popular momentum trick can be incorporated with SMOD. 2) when the model function satisfies certain good approximation property, even the nonsmooth problems can be linearly accelerated by minibatching. Furthermore, we also briefly cover the topic of distributed optimization and discuss the advantage of certain models in the asynchronous environment. | Advisor: Qi Deng | Organizer: Wenzhi Gao | . Outline &amp; Reference . | Davis, Damek, and Dmitriy Drusvyatskiy. ‘‘Stochastic model-based minimization of weakly convex functions.” SIAM Journal on Optimization 29.1 (2019): 207-239. | Asi, Hilal, and John C. Duchi. ‘‘The importance of better models in stochastic optimization.” Proceedings of the National Academy of Sciences 116.46 (2019): 22924-22930. | Deng, Qi, and Wenzhi Gao. ‘‘Minibatch and Momentum Model-based Methods for Stochastic Weakly Convex Optimization.” Advances in Neural Information Processing Systems 34 (2021): 23115-23127. | Mukkamala, Mahesh Chandra. Bregman proximal minimization algorithms, analysis and applications. Diss. Universität Tübingen, 2022. | Xu, Yangyang, et al. ‘‘Distributed Stochastic Inertial-Accelerated Methods with Delayed Derivatives for Nonconvex Problems.” SIAM Journal on Imaging Sciences 15.2 (2022): 550-590. | . Schedule . Sep 28 Intro Notes, Slides ",
     "url": "/seminar-paper-reading/calendar/#stochastic-model-based-optimization",
     "relUrl": "/calendar/#stochastic-model-based-optimization"
   },"10": {
     "doc": "Calendar",
-    "title": "Abstract",
-    "content": "We introduce a new interpretation of first-order methods from the perspective of model function. Using the framework of model-based optimization, the analysis of several existing algorithms can be unified succinctly. Specifically, we focus on the stochastic model-based optimization (SMOD), a class of nonsmooth nonconvex problems which are prevalent in machine learning. To make SMOD more practical, we make two important extensions: 1) we show that the popular momentum trick can be incorporated with SMOD. 2) when the model function satisfies certain good approximation property, even the nonsmooth problems can be linearly accelerated by minibatching. Furthermore, we also briefly cover the topic of distributed optimization and discuss the advantage of certain models in the asynchronous environment. | Advisor: Qi Deng | Organizer: Wenzhi Gao | . Sep 28 Java &amp; Git 1.1 Sep 29 SectionIntro to Java Solution Sep 30 Variables &amp; Objects 1.2, 2.1 Oct 1 Lab Intro to Java Oct 2 Tracing, IntLists, &amp; Recursion 2.1 HW 1 due ",
-    "url": "/seminar-paper-reading/calendar/#abstract",
-    "relUrl": "/calendar/#abstract"
+    "title": "Multidimensional Data (Tensor) Analysis",
+    "content": "Abstract . First, we provide an overview of higher-order tensor decomposition such as the CP decomposition and its related applications. Then we introduce the computation of the principal components for a general tensor, known as the tensor principal component analysis (PCA) problem. We show that the general tensor PCA problem can be reducible to its special case, hence the tensor PCA problem can be solved by means of matrix optimization technique. Finally, we introduce a novel approximation scheme for tensor nuclear norm, which fills the gap of the approximation ration between tensor nuclear norm and tensor spectral norm. | Advisor: Bo Jiang | Student: Chang He, Yuntian Jiang | . Outline &amp; Reference . | Introductory notes and remarks | Kolda, Tamara G., and Brett W. Bader. “Tensor decompositions and applications.” SIAM review 51.3 (2009): 455-500. | B. Jiang, S. Ma and S. Zhang, “Tensor Principal Component Analysis via Convex Optimization”, Mathematical Programming Series A, 150, 423-457, 2015. | S. He, H. Hu, B. Jiang, and Z. Li, “Approximating tensor norms via sphere covering: Bridging the gap between primal and dual”.(2022) | . Schedule . Oct 5 Introductory notes and remarks Notes, Slides ",
+    "url": "/seminar-paper-reading/calendar/#multidimensional-data-tensor-analysis",
+    "relUrl": "/calendar/#multidimensional-data-tensor-analysis"
   },"11": {
     "doc": "Calendar",
-    "title": "Multidimensional Data (Tensor) Analysis",
-    "content": "Abstract: First, we provide an overview of higher-order tensor decomposition such as the CP decomposition and its related applications. Then we introduce the computation of the principal components for a general tensor, known as the tensor principal component analysis (PCA) problem. We show that the general tensor PCA problem can be reducible to its special case, hence the tensor PCA problem can be solved by means of matrix optimization technique. Finally, we introduce a novel approximation scheme for tensor nuclear norm, which fills the gap of the approximation ration between tensor nuclear norm and tensor spectral norm. Oct 5 Linked Lists &amp; Encapsulation 3.1, 2.2, 2.3 Oct 6 SectionLinked Lists Solution Oct 7 Resizing Arrays 2.4, 2.5 Oct 8 Lab Resizing Arrays Oct 9 Runtime Analysis 8.1, 8.2, 8.3, 8.4 HW 2 due ",
-    "url": "/seminar-paper-reading/calendar/#multidimensional-data-tensor-analysis",
-    "relUrl": "/calendar/#multidimensional-data-tensor-analysis"
+    "title": "Polynomial optimization",
+    "content": "Abstract . TBD . | Advisor: Simai He | Student: | . Outline &amp; Reference . | Introductory notes and remarks | Overview of PO, motivation, and basic algorithms | . Schedule . ",
+    "url": "/seminar-paper-reading/calendar/#polynomial-optimization",
+    "relUrl": "/calendar/#polynomial-optimization"
   },"12": {
     "doc": "Calendar",
-    "title": "Multidimensional Data (Tensor) Analysis",
-    "content": "Abstract: First, we provide an overview of higher-order tensor decomposition such as the CP decomposition and its related applications. Then we introduce the computation of the principal components for a general tensor, known as the tensor principal component analysis (PCA) problem. We show that the general tensor PCA problem can be reducible to its special case, hence the tensor PCA problem can be solved by means of matrix optimization technique. Finally, we introduce a novel approximation scheme for tensor nuclear norm, which fills the gap of the approximation ration between tensor nuclear norm and tensor spectral norm. Oct 5 Linked Lists &amp; Encapsulation 3.1, 2.2, 2.3 Oct 6 SectionLinked Lists Solution Oct 7 Resizing Arrays 2.4, 2.5 Oct 8 Lab Resizing Arrays Oct 9 Runtime Analysis 8.1, 8.2, 8.3, 8.4 HW 2 due ",
-    "url": "/seminar-paper-reading/calendar/#multidimensional-data-tensor-analysis",
-    "relUrl": "/calendar/#multidimensional-data-tensor-analysis"
+    "title": "Submodular optimization",
+    "content": "Abstract . | Advisor: Simai He | . Outline &amp; Reference . Schedule . ",
+    "url": "/seminar-paper-reading/calendar/#submodular-optimization",
+    "relUrl": "/calendar/#submodular-optimization"
   },"13": {
-    "doc": "Calendar",
-    "title": "Multidimensional Data (Tensor) Analysis",
-    "content": "Abstract: First, we provide an overview of higher-order tensor decomposition such as the CP decomposition and its related applications. Then we introduce the computation of the principal components for a general tensor, known as the tensor principal component analysis (PCA) problem. We show that the general tensor PCA problem can be reducible to its special case, hence the tensor PCA problem can be solved by means of matrix optimization technique. Finally, we introduce a novel approximation scheme for tensor nuclear norm, which fills the gap of the approximation ration between tensor nuclear norm and tensor spectral norm. Oct 5 Linked Lists &amp; Encapsulation 3.1, 2.2, 2.3 Oct 6 SectionLinked Lists Solution Oct 7 Resizing Arrays 2.4, 2.5 Oct 8 Lab Resizing Arrays Oct 9 Runtime Analysis 8.1, 8.2, 8.3, 8.4 HW 2 due ",
-    "url": "/seminar-paper-reading/calendar/#multidimensional-data-tensor-analysis",
-    "relUrl": "/calendar/#multidimensional-data-tensor-analysis"
-  },"14": {
     "doc": "Schedule",
     "title": "Weekly Schedule",
     "content": "The schedule will be finalized by Tencent Meeting links. | 9:00 AM | 9:30 AM | 10:00 AM | 10:30 AM | 11:00 AM | 11:30 AM | 12:00 PM | 12:30 PM | 1:00 PM | 1:30 PM | 2:00 PM | 2:30 PM | 3:00 PM | 3:30 PM | 4:00 PM | 4:30 PM | 5:00 PM | 5:30 PM | . | ",
     "url": "/seminar-paper-reading/schedule/#weekly-schedule",
     "relUrl": "/schedule/#weekly-schedule"
-  },"15": {
+  },"14": {
     "doc": "Schedule",
     "title": "Monday",
     "content": ". | Lecture 9:30 AM–10:30 AM 150 Wheeler | Section 11:30 AM–12:30 PM 310 Soda | Office Hours 12:30 PM–2:00 PM 271 Soda | . | ",
     "url": "/seminar-paper-reading/schedule/",
     "relUrl": "/schedule/"
-  },"16": {
+  },"15": {
     "doc": "Schedule",
     "title": "Tuesday",
     "content": "| ",
     "url": "/seminar-paper-reading/schedule/",
     "relUrl": "/schedule/"
-  },"17": {
+  },"16": {
     "doc": "Schedule",
     "title": "Wednesday",
     "content": ". | Lecture 9:30 AM–10:30 AM 150 Wheeler | Section 11:30 AM–12:30 PM 310 Soda | Office Hours 12:30 PM–2:00 PM 271 Soda | . | ",
     "url": "/seminar-paper-reading/schedule/",
     "relUrl": "/schedule/"
-  },"18": {
+  },"17": {
     "doc": "Schedule",
     "title": "Thursday",
     "content": "| ",
     "url": "/seminar-paper-reading/schedule/",
     "relUrl": "/schedule/"
-  },"19": {
+  },"18": {
     "doc": "Schedule",
     "title": "Friday",
     "content": ". | Lecture 9:30 AM–10:30 AM 150 Wheeler | Section 11:30 AM–12:30 PM 310 Soda | Office Hours 12:30 PM–2:00 PM 271 Soda | . | . ",
     "url": "/seminar-paper-reading/schedule/",
     "relUrl": "/schedule/"
-  },"20": {
+  },"19": {
     "doc": "Schedule",
     "title": "Schedule",
     "content": " ",
     "url": "/seminar-paper-reading/schedule/",
     "relUrl": "/schedule/"
-  },"21": {
+  },"20": {
     "doc": "Staff",
     "title": "Staff",
-    "content": "Staff information is stored in the _staffers directory and rendered according to the layout file, _layouts/staffer.html. ",
+    "content": " ",
     "url": "/seminar-paper-reading/staff/",
     "relUrl": "/staff/"
-  },"22": {
+  },"21": {
     "doc": "Staff",
     "title": "Instructors",
     "content": " ",
     "url": "/seminar-paper-reading/staff/#instructors",
     "relUrl": "/staff/#instructors"
-  },"23": {
+  },"22": {
     "doc": "Staff",
-    "title": "Teaching Assistants",
-    "content": "C. Zhang . chuwen-at-shanshu-dot-ai . ",
-    "url": "/seminar-paper-reading/staff/#teaching-assistants",
-    "relUrl": "/staff/#teaching-assistants"
+    "title": "Organizers",
+    "content": "C. Zhang . chuwen-at-shanshu-dot-ai . W. Gao . unknown . C. He . unknown . Y. Jiang . unknown . C. Xue . unknown . ",
+    "url": "/seminar-paper-reading/staff/#organizers",
+    "relUrl": "/staff/#organizers"
   }
 }

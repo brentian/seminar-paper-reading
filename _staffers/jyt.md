@@ -1,8 +1,9 @@
 ---
-name: C. Zhang
+name: Y. Jiang
 role: Organizer
-email: chuwen-at-shanshu-dot-ai
-photo: cz.png
+email: unknown
+website: ""
+photo: jyt.jpg
 ---
 
 <!-- [Schedule an appointment](#){: .btn .btn-outline } -->

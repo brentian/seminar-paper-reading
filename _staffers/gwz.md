@@ -1,8 +1,8 @@
 ---
-name: C. Zhang
+name: W. Gao
 role: Organizer
-email: chuwen-at-shanshu-dot-ai
-photo: cz.png
+email: unknown
+photo: gwz.jpg
 ---
 
 <!-- [Schedule an appointment](#){: .btn .btn-outline } -->

@@ -1,8 +1,9 @@
 ---
-name: C. Zhang
+name: C. Xue
 role: Organizer
-email: chuwen-at-shanshu-dot-ai
-photo: cz.png
+email: unknown
+website: ""
+photo: xcy.jpg
 ---
 
 <!-- [Schedule an appointment](#){: .btn .btn-outline } -->

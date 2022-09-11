@@ -35,8 +35,10 @@ The SOST is to provide a brief introduction to a selected subset of topics and p
   - 在当期课题开始前分享出来
 - 课题材料要求 (按照统一的模板，[模板下载](#)），包含内容
   - 必要的 Introductory 章节
-  - $^\dagger$ 如果展示所用slides 及笔记不便开源，提供分享用 email
+  - 如果展示所用slides 及笔记不便开源，提供分享用 email
   - 完整的参考文献
 
+
+
 ### License
-If you wish to include the materials of a topic covered by SOST, please cite one or more 
+If you wish to include the materials of a topic covered by SOST, please cite the papers. 
