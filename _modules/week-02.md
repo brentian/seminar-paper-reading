@@ -1,24 +1,24 @@
 ---
-title: Multidimensional Data (Tensor) Analysis
-
+title: Stochastic Model-based Optimization
 ---
 **Abstract**{: .label .label-purple }
 
-First, we provide an overview of higher-order tensor decomposition such as  the CP decomposition and its related applications. Then we introduce the computation of the principal components for a general tensor, known as the tensor principal component analysis (PCA) problem. We show that the general tensor PCA problem can be reducible to its special case, hence the tensor PCA problem can be solved by means of matrix optimization technique. Finally, we introduce a novel approximation scheme for tensor nuclear norm, which fills the gap of the approximation ration between tensor nuclear norm and tensor spectral norm.
+We introduce a new interpretation of first-order methods from the perspective of model function. Using the framework of model-based optimization, the analysis of several existing algorithms can be unified succinctly. Specifically, we focus on the stochastic model-based optimization (SMOD), a class of nonsmooth nonconvex problems which are prevalent in machine learning. To make SMOD more practical, we make two important extensions: 1) we show that the popular momentum trick can be incorporated with SMOD. 2) when the model function satisfies certain good approximation property, even the nonsmooth problems can be linearly accelerated by minibatching. Furthermore, we also briefly cover the topic of distributed optimization and discuss the advantage of certain models in the asynchronous environment.
 
+- Advisor: Qi Deng
+- Organizer: Wenzhi Gao
 
-- Advisor: Bo Jiang
-- Student: Chang He, Yuntian Jiang
 
 **Outline & Reference**{: .label .label-purple }
-- Introductory notes and remarks
-- Kolda, Tamara G., and Brett W. Bader. "Tensor decompositions and applications." SIAM review 51.3 (2009): 455-500.
-- B. Jiang, S. Ma and S. Zhang, “Tensor Principal Component Analysis via Convex Optimization”,  Mathematical Programming Series A, 150, 423-457, 2015.
-- S. He, H. Hu, B. Jiang, and Z. Li,  "Approximating tensor norms via sphere covering: Bridging the gap between primal and dual".(2022)
+
+- Davis, Damek, and Dmitriy Drusvyatskiy. ‘‘Stochastic model-based minimization of weakly convex functions." SIAM Journal on Optimization 29.1 (2019): 207-239.
+- Asi, Hilal, and John C. Duchi. ‘‘The importance of better models in stochastic optimization." Proceedings of the National Academy of Sciences 116.46 (2019): 22924-22930.
+- Deng, Qi, and Wenzhi Gao. ‘‘Minibatch and Momentum Model-based Methods for Stochastic Weakly Convex Optimization." Advances in Neural Information Processing Systems 34 (2021): 23115-23127.
+- Mukkamala, Mahesh Chandra. Bregman proximal minimization algorithms, analysis and applications. Diss. Universität Tübingen, 2022.
+- Xu, Yangyang, et al. ‘‘Distributed Stochastic Inertial-Accelerated Methods with Delayed Derivatives for Nonconvex Problems." SIAM Journal on Imaging Sciences 15.2 (2022): 550-590.
 
 **Schedule**{: .label .label-purple }
 
-Oct 5
-: [Introductory notes and remarks](#)
+Sep 28
+: [Intro](#)
   : [Notes](#), [Slides](#)
-
