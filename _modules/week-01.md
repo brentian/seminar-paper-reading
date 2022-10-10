@@ -18,7 +18,7 @@ First, we provide an overview of higher-order tensor decomposition such as  the 
 
 **Schedule**{: .label .label-purple }
 
-Oct 11
+Oct 13
 : [Introductory notes and remarks](#)
   : [Notes](#), [Slides](../files/Seminar_Tensor_1.pdf), [Tencent Meeting](https://meeting.tencent.com/dw/gZH2tgOddAHU
 )
